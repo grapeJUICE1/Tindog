@@ -261,3 +261,47 @@ footer{
   top: 10%;
 }
 }
+@media(min-width: 1100px) and (max-width: 1250px){
+	.title-img{
+	width: 75%;
+    transform: rotate(25deg);
+    margin: 2%;
+    position: relative;
+    top: 6%;
+    left: 1%;
+    z-index: 1
+	}
+}
+	@media  (min-width: 1251px) and (max-width:1400px){
+	.title-img{
+	width: 70%;
+    transform: rotate(25deg);
+    margin: 2%;
+    position: relative;
+    top: 0%;
+    left: 1%;
+    z-index: 1
+	}
+}
+	
+
+	
+@media  (min-width: 1401px){
+.title-img {
+    width: 60%;
+    transform: rotate(25deg);
+    margin: 2%;
+    position: relative;
+    top: 0%;
+    left: 1%;
+    z-index: 1;
+
+	}
+}
+	
+	
+	
+	
+	
+	
+	
